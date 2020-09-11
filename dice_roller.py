@@ -55,8 +55,6 @@ def main():
 
     dice_parameters = user_input()
 
-    print(dice_parameters)
-
     roll_result = dice_roll(dice_parameters[0], dice_parameters[1], dice_parameters[2])
 
     print(f"Your total dice roll result: {roll_result}")
