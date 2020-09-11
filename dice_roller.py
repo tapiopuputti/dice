@@ -1,7 +1,7 @@
 import random
 
 def print_welcome():
-    """This method prints a welcome screen.
+    """This function prints a welcome screen.
     """
     print("|----------------------------------|")
     print("|                                  |")
